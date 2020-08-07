@@ -1,4 +1,4 @@
-# This is a project for keyword extraction using RAKE algorithm. 
+# Keyword Extraction using RAKE algorithm. 
 
 This program extracts keywords from a given PDF Document using Rapid Automatic Keyword Extraction (RAKE) algorithm and saves the keywords according to their weightage in a .csv file. 
 
